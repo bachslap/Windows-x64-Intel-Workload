@@ -1,0 +1,11 @@
+﻿  Assembling addition.asm...
+addition.asm(1): error A2013: .MODEL must precede this directive
+addition.asm(2): error A2034: must be in segment block : additionwl
+addition.asm(4): error A2034: must be in segment block
+addition.asm(5): error A2034: must be in segment block
+addition.asm(7): error A2034: must be in segment block
+addition.asm(12): error A2034: must be in segment block
+addition.asm(14): error A2034: must be in segment block
+addition.asm(17): error A2034: must be in segment block
+addition.asm(19): fatal error A1010: unmatched block nesting : additionwl
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\addition.obj" /W3 /errorReport:prompt  /Taaddition.asm" exited with code 1.
