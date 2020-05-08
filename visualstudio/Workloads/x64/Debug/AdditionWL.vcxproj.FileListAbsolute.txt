@@ -1,0 +1,4 @@
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\AdditionWL\x64\Debug\Workloads.exe
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\AdditionWL\x64\Debug\Workloads.pdb
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\x64\Debug\Workloads.exe
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\x64\Debug\Workloads.pdb

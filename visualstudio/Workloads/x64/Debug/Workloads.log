@@ -1,0 +1,12 @@
+﻿  workload.cpp
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\workload.cpp(10,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\workload.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\workload.cpp(52,15): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'BOOL', possible loss of data
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\workload.cpp(76,15): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'BOOL', possible loss of data
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\workload.cpp(99,15): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'BOOL', possible loss of data
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\workload.cpp(122,15): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'BOOL', possible loss of data
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\workload.cpp(145,15): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'BOOL', possible loss of data
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\workload.cpp(168,15): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'BOOL', possible loss of data
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\workload.cpp(191,15): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'BOOL', possible loss of data
+D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\workload.cpp(214,15): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'BOOL', possible loss of data
+  Workloads.vcxproj -> D:\School\2020\Computer Performance Analysis\Project\visualstudio\Workloads\x64\Debug\Workloads.exe
